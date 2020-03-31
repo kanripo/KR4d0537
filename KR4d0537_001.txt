@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 葯房樵唱
-#+DATE: 2020-03-31 11:35:55.488749
+#+DATE: 2020-03-31 11:35:55.544878
 #+PROPERTY: ID KR4d0537
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0537_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -77,7 +77,7 @@
 ¶
 　　六月¶
 ¶
-　　氷山瓏𤧚間瑤席水拍銀盤潄寒碧象床湘簟含風漪¶
+　　氷山瓏璁間瑤席水拍銀盤潄寒碧象床湘簟含風漪¶
 膩香粉汗霑凝脂赤帝啾啾火龍老琪樹西風轉昏曉¶
 ¶
 　　七月¶

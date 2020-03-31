@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 葯房樵唱
-#+DATE: 2020-03-31 11:35:55.496057
+#+DATE: 2020-03-31 11:35:55.552395
 #+PROPERTY: ID KR4d0537
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR4d0537_WYG_002-1a>¶
 　　欽定四庫全書¶
@@ -404,7 +404,7 @@
 <pb:KR4d0537_WYG_002-16b>¶
 　　寄題衛立本具慶堂¶
 ¶
-　　日永南𨹧棟宇深涿河繞屋樹隂隂二儀覆燾生成徳¶
+　　日永南陵棟宇深涿河繞屋樹隂隂二儀覆燾生成徳¶
 百嵗期頥孝友心戱綵自供堂上水擊鮮無藉槖中金¶
 漢家舊賜麟符在奕葉蝉聨直到今¶
 ¶
